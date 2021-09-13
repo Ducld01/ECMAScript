@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": "10",
+      "name": "Nike diorr",
+      "categoryId": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fway-33b0a.appspot.com/o/images%2F615044_XJC0G_1082_001_100_0000_Light-Gucci-Mad-Cookies-print-T-shirt.jpg?alt=media&token=94b1c827-bc8d-4f77-8467-e2ea228f9fe8",
+      "price": "25555"
+    },
+    {
+      "id": "8",
+      "categoryId": "2",
+      "name": "MINI ROLLER MESSENGER BAG",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fway-33b0a.appspot.com/o/images%2FDior%20book%20tote.jpg?alt=media&token=e8fff25b-1003-426e-9b01-91adff748cda",
+      "price": "23500000",
+      "detail": "qưetreytryutsdfdgfhgj"
+    },
+    {
+      "id": "9",
+      "categoryId": "3",
+      "name": "Men's Wool Cashmere Single Breasted",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fway-33b0a.appspot.com/o/images%2Fcoat1.jpg?alt=media&token=8764c87e-561f-4548-91f6-560038379f05",
+      "price": "4,562,957",
+      "detail": "ắdfghwetrey"
+    },
+    {
+      "id": "12",
+      "categoryId": "5",
+      "name": "BEIGE TROUSERS ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fway-33b0a.appspot.com/o/images%2FBeige_Trousers_Soragna_Capsule_Collection_-_cut_698369ad-dbd2-4b2c-812b-d4734d04e496.jpg?alt=media&token=2c5aa05a-119f-41b8-ae89-93fa50e0b6c2",
+      "price": "2,144,538",
+      "detail": "advVgadsvvasfv"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Shoes"
+    },
+    {
+      "id": 2,
+      "name": "Bags"
+    },
+    {
+      "id": 3,
+      "name": "COATS"
+    },
+    {
+      "id": 4,
+      "name": "JACKETS "
+    },
+    {
+      "id": 5,
+      "name": "Trouserss"
+    }
+  ],
+  "customers": [
+    {
+      "firstname": "Hoang",
+      "lastname": "Quoc Dong",
+      "email": "dhandb@gmail.com",
+      "message": "Greattt"
+    }
+  ]
+}
